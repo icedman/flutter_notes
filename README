@@ -8,6 +8,8 @@ git
 ssh key only
 skip ssh when keys not specified
 
+push progress
+
 mobile
 ~/ path doesnt detect repository
 
