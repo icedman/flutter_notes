@@ -2,25 +2,94 @@
 
 *** no ssh when keys not specified
 
-author still me***
+***author still me
 
 push progress
 
-***mobile
-~/ path doesnt detect repository***
+***mobile ~/ path doesnt detect repository
 
 ***rename app
-add app logo
+
+***add app logo
+
 take screenshots
 
 ***toolbar scrolling tapping
 
-old line number ** blame change indicator
+old line number - blame change indicator
 
-horizotal autonscroll***
+***horizotal auto scroll - move to cursor
 
-shift on hardware keyboard moves the cursor
+***shift on hardware keyboard moves the cursor
 
 ***problem with tabs and tapping
 
-goto line not nworking mobile 
+***goto line not nworking mobile 
+
+***horizontal scroll.gets disabled
+
+***infinite tooblar scroll
+
+***popup explorer cannot auto tab change
+
+***line 1 column 1
+
+***remove sidebar x when ndesktop mode
+
+***move gutter backnto top
+
+***theme doesnt nupdate nminimap
+
+***autofocus popups, requiring keyboard enabled
+
+***no gutter is too much
+
+***scrolling vertical covered by toolbar 
+
+***copy and paste buttons
+
+***about, help, licenses read only
+
+**console.background
+
+***minimap view window
+
+detect external.file changes
+
+task icon animation
+
+***shift+touch not working
+
+***paste adds an invisible character.. probably and return
+
+detect tab spaces
+
+***gesture detector sometimes gets lost
+(when adding new lines) 
+- test
+
+***autoscroll on undo
+
+***should disable autoscroll if mod and no ch only
+
+***toolbar buttons not very responsive
+
+allow swipe with popups
+
+***add auto save - test
+ 
+***add font setting - test
+
+add file reload, detect file change
+
+***more_vert button
+
+selection thumbs
+
+***add create file
+
+
+
+
+
+
